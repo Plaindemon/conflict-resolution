@@ -1,7 +1,18 @@
 # conflict-resolution
 
-#This is the subheading created locally
- All of this ios done in a local repo
- bivejkuhbvcaijl;v;lfnewasjvnf;owa
+ Run Buddy, Inc
 
- ## copyright something conflict
+## Purpose
+A website that offers fitness training services. 
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+### ©️2019 Run Buddy, Inc 
